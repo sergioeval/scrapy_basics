@@ -1,0 +1,1 @@
+conda activate p37 && jupyter notebook
